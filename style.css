@@ -1,0 +1,353 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Slightly more modern font */
+  background-color: #e0f7fa; /* Lighter blue, vibrant background */
+  margin: 0;
+  padding: 30px;
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: flex-start; /* Align to the top, allowing content to flow down */
+  min-height: 100vh; /* Ensure body takes full viewport height */
+  box-sizing: border-box; /* Include padding in element's total width and height */
+}
+
+#app {
+  max-width: 800px; /* Slightly wider for better content display */
+  width: 100%; /* Ensure it takes full width up to max-width */
+  margin: auto; /* Center the app container */
+  background-color: transparent; /* App container itself doesn't need a background */
+  padding: 0;
+}
+
+.card {
+  background-color: white;
+  padding: 30px; /* More padding for spacious feel */
+  border-radius: 12px; /* Softer rounded corners */
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15); /* More pronounced shadow */
+  margin-bottom: 20px; /* Space between cards/sections if multiple were used */
+  border: 1px solid #b2ebf2; /* Subtle border matching background tones */
+}
+
+h1, h2 {
+  color: #00796b; /* A deep teal for headings */
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: 600; /* Slightly bolder headings */
+}
+
+/* Home Screen Specifics */
+#home .section-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Space between buttons */
+}
+
+.section-button {
+  display: block;
+  width: 100%;
+  padding: 15px 25px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: white;
+  background-image: linear-gradient(to right, #00bcd4, #26c6da); /* Cyan gradient */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease; /* Smooth transitions */
+  box-shadow: 0 4px 10px rgba(0, 188, 212, 0.3); /* Shadow for buttons */
+}
+
+.section-button:hover {
+  background-image: linear-gradient(to right, #00acc1, #00838f); /* Darker gradient on hover */
+  box-shadow: 0 6px 15px rgba(0, 188, 212, 0.4);
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+/* Email Screen */
+#emailScreen input[type="email"] {
+  width: calc(100% - 22px); /* Account for padding */
+  padding: 12px 10px;
+  margin-bottom: 20px;
+  border: 2px solid #00bcd4; /* Cyan border */
+  border-radius: 6px;
+  font-size: 1rem;
+  box-sizing: border-box; /* Include padding in width */
+}
+
+#emailScreen button#startButton {
+  display: block;
+  width: 100%;
+  padding: 15px 25px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: white;
+  background-image: linear-gradient(to right, #4caf50, #8bc34a); /* Green gradient */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(76, 175, 80, 0.3);
+}
+
+#emailScreen button#startButton:hover {
+  background-image: linear-gradient(to right, #388e3c, #689f38); /* Darker green on hover */
+  box-shadow: 0 6px 15px rgba(76, 175, 80, 0.4);
+  transform: translateY(-2px);
+}
+
+
+/* Question Screen */
+#questionBox {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  border: 1px solid #b2ebf2;
+}
+
+#questionNumber {
+  font-size: 1.1em;
+  color: #263238; /* Dark grey for general text */
+  margin-bottom: 10px;
+  text-align: right;
+  font-weight: 500;
+}
+
+#questionText {
+  font-size: 1.4rem; /* Larger question text */
+  color: #3f51b5; /* Indigo for questions */
+  margin-bottom: 25px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.options label {
+  display: flex; /* Use flexbox for alignment of radio and text */
+  align-items: center;
+  padding: 15px;
+  margin: 8px 0;
+  font-size: 1.1rem;
+  background-color: #e8f5e9; /* Very light green for options */
+  border: 1px solid #a5d6a7; /* Light green border */
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.options label:hover {
+  background-color: #c8e6c9; /* Slightly darker green on hover */
+  border-color: #66bb6a; /* More pronounced border on hover */
+}
+
+.options input[type="radio"] {
+  margin-right: 15px; /* Space between radio button and text */
+  transform: scale(1.2); /* Slightly larger radio buttons */
+  cursor: pointer;
+}
+
+/* Style for selected radio button label */
+.options input[type="radio"]:checked + label { /* This specific selector targets the label adjacent to the checked radio */
+  font-weight: bold;
+  color: #004d40; /* Dark teal for selected option text */
+  background-color: #b2dfdb; /* Light teal background for selected */
+  border-color: #00796b; /* Stronger teal border */
+}
+
+/* Hint Box */
+#showHint {
+  padding: 10px 20px;
+  background-color: #ffb300; /* Amber yellow for hint */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+#showHint:hover {
+  background-color: #fb8c00; /* Darker amber on hover */
+}
+
+#hintBox {
+  margin-top: 15px;
+  padding: 15px;
+  background-color: #fffde7; /* Very light yellow */
+  border: 1px dashed #ffcc80; /* Orange dashed border */
+  border-radius: 8px;
+  font-style: italic;
+  color: #616161; /* Dark grey text */
+  display: none; /* Hidden by default */
+}
+
+/* Display hint box when it has content */
+#hintBox:not(:empty) {
+    display: block;
+}
+
+
+/* Feedback Box */
+.feedback-box {
+  margin-top: 25px;
+  padding: 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.feedback-box.correct {
+  background-color: #e8f5e9; /* Lightest green */
+  color: #2e7d32; /* Dark green for success */
+  border: 2px solid #43a047; /* Green border */
+}
+
+.feedback-box.incorrect {
+  background-color: #ffebee; /* Lightest red */
+  color: #d32f2f; /* Dark red for error */
+  border: 2px solid #ef5350; /* Red border */
+}
+
+/* Follow-up question container */
+.followup-box {
+  margin-top: 30px;
+  padding: 25px;
+  background-color: #e3f2fd; /* Light blue background for follow-up */
+  border: 1px solid #90caf9; /* Blue border */
+  border-radius: 10px;
+  box-shadow: inset 0 2px 5px rgba(0,0,0,0.05); /* Inner shadow */
+}
+
+.followup-box p {
+  font-size: 1.2rem;
+  color: #1976d2; /* Darker blue for follow-up question */
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.followup-box label {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  margin: 5px 0;
+  font-size: 1rem;
+  background-color: #f0f4c3; /* Light lime/yellow for follow-up options */
+  border: 1px solid #dce775;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.followup-box label:hover {
+  background-color: #cddc39; /* Darker lime on hover */
+  border-color: #afb42b;
+}
+
+.followup-box input[type="radio"] {
+  margin-right: 12px;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/* Style for selected follow-up radio button label */
+.followup-box input[type="radio"]:checked + label {
+    font-weight: bold;
+    color: #558b2f; /* Darker green for selected follow-up option */
+    background-color: #dcedc8; /* Lighter green background for selected */
+    border-color: #8bc34a; /* Stronger green border */
+}
+
+/* Navigation buttons */
+.nav-buttons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px; /* Space between buttons */
+}
+
+.nav-buttons button {
+  flex: 1; /* Make buttons take equal space */
+  padding: 15px 25px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#prevButton {
+  background-image: linear-gradient(to right, #ef5350, #ff8a65); /* Reddish-orange gradient */
+}
+#prevButton:hover:not(:disabled) {
+  background-image: linear-gradient(to right, #d32f2f, #f4511e);
+  transform: translateY(-2px);
+}
+
+#nextButton {
+  background-image: linear-gradient(to right, #42a5f5, #90caf9); /* Blue gradient */
+}
+#nextButton:hover:not(:disabled) {
+  background-image: linear-gradient(to right, #1976d2, #2196f3);
+  transform: translateY(-2px);
+}
+
+
+/* Disabled button styles */
+button:disabled {
+  background-image: none !important; /* Remove gradient */
+  background-color: #cccccc !important;
+  cursor: not-allowed !important;
+  color: #666666 !important;
+  box-shadow: none !important;
+  transform: none !important; /* Remove hover transform */
+}
+
+
+/* Score Screen */
+#finalScore {
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  text-align: center;
+  border: 1px solid #b2ebf2;
+}
+
+#finalScore h2 {
+  color: #00796b; /* Matching heading color */
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#finalScore p {
+  font-size: 1.3em;
+  color: #455a64; /* Darker grey for score text */
+  margin-bottom: 10px;
+}
+
+#restartQuizButton {
+  margin-top: 30px;
+  padding: 18px 35px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+  background-image: linear-gradient(to right, #673ab7, #9c27b0); /* Purple gradient */
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 15px rgba(103, 58, 183, 0.4);
+}
+
+#restartQuizButton:hover {
+  background-image: linear-gradient(to right, #512da8, #7b1fa2);
+  transform: translateY(-2px);
+}
+
+/* General button styles for the email screen as well */
+/* #emailScreen button { */ /* Corrected CSS comment syntax */
+/* /* Styles are already defined above for #startButton which is sufficient */
+/* } */

@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "q1",
+    "section": 1,
+    "question": "My coach _____ me feedback every game.",
+    "options": ["A) give", "B) gives", "C) giving", "D) given"],
+    "correctAnswer": "B",
+    "hint": "Third person singular in present tense adds -s.",
+    "feedback": {
+      "correct_no_hint": "✅ Great! You remembered that singular subjects like 'coach' take verbs ending in -s.",
+      "correct_hint": "✅ Good use of the hint. Just remember: third-person singular = verb+s in the present.",
+      "incorrect_no_hint": "❌ 'Coach' is singular, so we need 'gives.' In present tense, he/she/it = verb+s.",
+      "incorrect_hint": "❌ Even with the hint, you missed the rule: third-person singular = add -s. Watch out!"
+    },
+    "followUpQuestion": "Why is 'gives' correct?",
+    "followUpOptions": [
+      "A) 'Me' makes the verb singular",
+      "B) 'Coach' is singular, so we add -s",
+      "C) 'Feedback' is uncountable",
+      "D) 'Coach' is doing the giving, so it must be past"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q2",
+    "section": 1,
+    "question": "My teammates _____ drills every morning.",
+    "options": ["A) run", "B) runs", "C) running", "D) ran"],
+    "correctAnswer": "A",
+    "hint": "Plural subjects take base form verbs in present tense.",
+    "feedback": {
+      "correct_no_hint": "✅ Excellent! 'Teammates' is plural, so we use the base form 'run.'",
+      "correct_hint": "✅ Great! You used the hint to remember that plural nouns use base verb forms.",
+      "incorrect_no_hint": "❌ Oops! 'Teammates' is plural — don't add -s. Save -s for singular subjects.",
+      "incorrect_hint": "❌ Even with the hint, you chose wrong. Try to identify the number (singular/plural) first."
+    },
+    "followUpQuestion": "Why is 'run' correct?",
+    "followUpOptions": [
+      "A) Because 'morning' is singular",
+      "B) Because 'teammates' is plural",
+      "C) Because drills happen often",
+      "D) Because 'run' is past tense"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q3",
+    "section": 1,
+    "question": "Each of the players _____ a different warm-up routine.",
+    "options": ["A) has", "B) have", "C) having", "D) had"],
+    "correctAnswer": "A",
+    "hint": "'Each' is grammatically singular.",
+    "feedback": {
+      "correct_no_hint": "✅ Nicely done! 'Each' takes a singular verb like 'has.'",
+      "correct_hint": "✅ Great job using the hint — 'Each' is always singular!",
+      "incorrect_no_hint": "❌ Be careful — 'each' sounds plural but is singular in grammar.",
+      "incorrect_hint": "❌ Even with the hint, you missed that 'each' always uses singular verbs."
+    },
+    "followUpQuestion": "Why is 'has' correct?",
+    "followUpOptions": [
+      "A) Because 'players' is plural",
+      "B) Because 'routine' is singular",
+      "C) Because 'each' makes the subject singular",
+      "D) Because this is about habits"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q4",
+    "section": 1,
+    "question": "The player and the coach _____ discussing strategy.",
+    "options": ["A) is", "B) are", "C) was", "D) has been"],
+    "correctAnswer": "B",
+    "hint": "Two subjects joined by 'and' = plural.",
+    "feedback": {
+      "correct_no_hint": "✅ Nice! 'Player and coach' form a compound subject — plural.",
+      "correct_hint": "✅ Well done! You used the hint well — 'and' makes it plural.",
+      "incorrect_no_hint": "❌ Remember, if two people do something together, the verb is plural — 'are.'",
+      "incorrect_hint": "❌ Even after the hint, you chose a singular verb. Try pairing the subjects next time."
+    },
+    "followUpQuestion": "Why is 'are' correct?",
+    "followUpOptions": [
+      "A) Because 'discussing' is plural",
+      "B) Because there are two people doing the action",
+      "C) Because 'strategy' is a long word",
+      "D) Because it's in past tense"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q5",
+    "section": 1,
+    "question": "On the bench _____ a towel and a water bottle.",
+    "options": ["A) sits", "B) sit", "C) is sitting", "D) was sitting"],
+    "correctAnswer": "B",
+    "hint": "The real subject is 'a towel and a water bottle' — plural.",
+    "feedback": {
+      "correct_no_hint": "✅ Excellent! You looked beyond the prepositional phrase to find the plural subject.",
+      "correct_hint": "✅ Great! You followed the hint and matched the verb to the actual subject.",
+      "incorrect_no_hint": "❌ Watch out — 'on the bench' is not the subject. 'Towel and water bottle' are plural.",
+      "incorrect_hint": "❌ Even with a hint, you chose wrong. Always find the subject after the phrase."
+    },
+    "followUpQuestion": "Why is 'sit' correct?",
+    "followUpOptions": [
+      "A) Because 'bench' is the subject",
+      "B) Because 'towel and water bottle' are plural",
+      "C) Because 'on' makes it plural",
+      "D) Because 'bench' is uncountable"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q6",
+    "section": 1,
+    "question": "There _____ many reasons to warm up properly.",
+    "options": ["A) is", "B) are", "C) was", "D) has been"],
+    "correctAnswer": "B",
+    "hint": "Look at the noun after the verb to decide.",
+    "feedback": {
+      "correct_no_hint": "✅ Perfect! You saw that 'reasons' is plural — use 'are.'",
+      "correct_hint": "✅ Nice job using the hint to focus on the right noun.",
+      "incorrect_no_hint": "❌ 'Reasons' is plural. Use 'are' — not 'is.'",
+      "incorrect_hint": "❌ Even with help, you missed it. Always match to the real subject after 'there.'"
+    },
+    "followUpQuestion": "Why is 'are' correct?",
+    "followUpOptions": [
+      "A) Because 'there' is plural",
+      "B) Because 'reasons' is plural",
+      "C) Because 'warm up' is in the sentence",
+      "D) Because it’s a habit"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q7",
+    "section": 1,
+    "question": "The group of players _____ ready for practice.",
+    "options": ["A) is", "B) are", "C) were", "D) be"],
+    "correctAnswer": "A",
+    "hint": "A group is considered singular unless acting as individuals.",
+    "feedback": {
+      "correct_no_hint": "✅ Great! 'Group' is singular — use 'is'.",
+      "correct_hint": "✅ Nice use of the hint! Even if 'players' is plural, the subject is 'group'.",
+      "incorrect_no_hint": "❌ 'Group' is singular — don’t let 'players' trick you.",
+      "incorrect_hint": "❌ Even with the hint, you didn’t focus on the main subject: 'group'."
+    },
+    "followUpQuestion": "Why is 'is' correct?",
+    "followUpOptions": [
+      "A) Because 'players' is plural",
+      "B) Because 'group' is the actual subject and it's singular",
+      "C) Because it sounds better",
+      "D) Because 'ready' is singular"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q8",
+    "section": 1,
+    "question": "Neither the coach nor the players _____ happy with the result.",
+    "options": ["A) was", "B) is", "C) are", "D) be"],
+    "correctAnswer": "C",
+    "hint": "When subjects are joined with 'neither...nor', the verb agrees with the nearer subject.",
+    "feedback": {
+      "correct_no_hint": "✅ Excellent! 'Players' is plural and closer to the verb, so we use 'are'.",
+      "correct_hint": "✅ Right! 'Players' comes second and is plural — verb must match.",
+      "incorrect_no_hint": "❌ Remember the verb matches the closer subject: 'players' — so use 'are'.",
+      "incorrect_hint": "❌ Even with a hint, you didn’t match the verb to the nearest subject."
+    },
+    "followUpQuestion": "Why is 'are' correct?",
+    "followUpOptions": [
+      "A) Because 'coach' is singular",
+      "B) Because 'nor' always takes 'are'",
+      "C) Because 'players' is closer to the verb and plural",
+      "D) Because 'happy' is plural"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q9",
+    "section": 1,
+    "question": "Each of the books _____ a different cover.",
+    "options": ["A) has", "B) have", "C) had", "D) having"],
+    "correctAnswer": "A",
+    "hint": "'Each' makes the subject singular.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Each' is singular even if followed by a plural noun.",
+      "correct_hint": "✅ Good job! The verb must agree with 'each' — not 'books'.",
+      "incorrect_no_hint": "❌ The subject is 'each', not 'books'. Use singular verb.",
+      "incorrect_hint": "❌ Even with the hint, remember 'each' = singular."
+    },
+    "followUpQuestion": "Why is 'has' correct?",
+    "followUpOptions": [
+      "A) Because 'books' is plural",
+      "B) Because 'cover' is singular",
+      "C) Because 'each' is singular",
+      "D) Because it’s present tense"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q10",
+    "section": 1,
+    "question": "One of the players _____ injured during practice.",
+    "options": ["A) were", "B) was", "C) are", "D) be"],
+    "correctAnswer": "B",
+    "hint": "The subject is 'one', not 'players'.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'One' is singular — use 'was'.",
+      "correct_hint": "✅ Nice! You used the hint and spotted that 'one' is singular.",
+      "incorrect_no_hint": "❌ Be careful — 'players' is not the subject. 'One' is!",
+      "incorrect_hint": "❌ Even with help, remember to focus on the true subject."
+    },
+    "followUpQuestion": "Why is 'was' correct?",
+    "followUpOptions": [
+      "A) Because 'players' is plural",
+      "B) Because 'practice' is uncountable",
+      "C) Because 'one' is the subject and is singular",
+      "D) Because it's about the past"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q11",
+    "section": 2,
+    "question": "1. Choose the complete sentence:",
+    "options": [
+      "A. After the teacher announced the quiz.",
+      "B. The teacher announced the quiz.",
+      "C. When the teacher announced the quiz.",
+      "D. Although the teacher announced the quiz."
+    ],
+    "correctAnswer": "B",
+    "hint": "Remember, a complete sentence needs a subject, a verb, and a complete thought that can stand alone. Look for the option that doesn't start with a word that makes it dependent.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and complete thought.",
+      "correct_hint": "✅ Good job using the hint! You identified the complete sentence.",
+      "incorrect_no_hint": "❌ This is not a complete sentence. Remember to look for a subject, verb, and a complete thought that can stand alone.",
+      "incorrect_hint": "❌ Even with the hint, you missed it. Review what makes a sentence complete."
+    },
+    "followUpQuestion": "Excellent! You identified the complete sentence. Which of the following best describes *why* 'The teacher announced the quiz' is a complete sentence?",
+    "followUpOptions": [
+      "A. It has a subject and a verb.",
+      "B. It expresses a complete thought.",
+      "C. It does not start with a subordinating conjunction.",
+      "D. All of the above."
+    ],
+    "followUpAnswer": "D"
+  },
+  {
+    "id": "q12",
+    "section": 2,
+    "question": "2. Choose the complete sentence:",
+    "options": [
+      "A. Running quickly across the field.",
+      "B. While the players were warming up.",
+      "C. The players warmed up before the game.",
+      "D. Because the players were tired."
+    ],
+    "correctAnswer": "C",
+    "hint": "Look for the option that clearly states who did what, without needing extra information to make sense.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This sentence has a subject, a verb, and expresses a complete thought.",
+      "correct_hint": "✅ Good job using the hint! You found the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. A complete sentence must be able to stand alone.",
+      "incorrect_hint": "❌ You still missed it. Remember to look for a standalone statement."
+    },
+    "followUpQuestion": "Correct! 'The players warmed up before the game' is a complete sentence. What are the subject and verb in this sentence?",
+    "followUpOptions": [
+      "A. Subject: players, Verb: warmed up",
+      "B. Subject: game, Verb: warmed up",
+      "C. Subject: field, Verb: running",
+      "D. Subject: tired, Verb: were"
+    ],
+    "followUpAnswer": "A"
+  },
+  {
+    "id": "q13",
+    "section": 2,
+    "question": "3. Choose the complete sentence:",
+    "options": [
+      "A. While she was cooking.",
+      "B. Because it was raining.",
+      "C. He stayed inside and read a book.",
+      "D. Walking across the bridge."
+    ],
+    "correctAnswer": "C",
+    "hint": "Look for a subject, verb, and a complete thought.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This sentence has a subject, a verb, and expresses a clear, independent thought.",
+      "correct_hint": "✅ Great! The hint helped you avoid the dependent clause.",
+      "incorrect_no_hint": "❌ The word 'That' at the beginning often signals a dependent clause. This is not a complete sentence.",
+      "incorrect_hint": "❌ Even with the hint, you fell for a dependent clause. Keep practicing identifying independent clauses."
+    },
+    "followUpQuestion": "Why is option C a complete sentence?",
+    "followUpOptions": [
+      "A) It uses 'and'.",
+      "B) It has a verb phrase.",
+      "C) It expresses a full idea with subject and verb.",
+      "D) It starts with 'He'."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q14",
+    "section": 2,
+    "question": "4. Which one is a sentence fragment?",
+    "options": [
+      "A) The wind blew all night.",
+      "B) If the team wins the game.",
+      "C) She opened the door quickly.",
+      "D) They walked to school."
+    ],
+    "correctAnswer": "B",
+    "hint": "Fragments leave the reader waiting for more information.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a dependent clause fragment. It starts with 'If', making it incomplete.",
+      "correct_hint": "✅ Good work! The hint helped you spot the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ Even with the hint, you struggled. Fragments can't stand alone."
+    },
+    "followUpQuestion": "Why is 'If the team wins the game' a fragment?",
+    "followUpOptions": [
+      "A) It has no subject.",
+      "B) It’s a dependent clause with no independent clause.",
+      "C) It’s too short to be a sentence.",
+      "D) It ends in a period."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q15",
+    "section": 2,
+    "question": "5. Identify the complete sentence.",
+    "options": [
+      "A) After the class ended.",
+      "B) She turned off the lights.",
+      "C) While listening to music.",
+      "D) Because the power went out."
+    ],
+    "correctAnswer": "B",
+    "hint": "The sentence must stand alone and express a full idea.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This sentence has a subject, a verb, and expresses a complete, independent idea.",
+      "correct_hint": "✅ Excellent! The hint guided you to the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. Remember, a complete sentence must express a full idea.",
+      "incorrect_hint": "❌ You're still struggling with identifying complete sentences. Review dependent clauses and their incompleteness."
+    },
+    "followUpQuestion": "What makes 'She turned off the lights' a sentence?",
+    "followUpOptions": [
+      "A) It has an object.",
+      "B) It begins with a pronoun.",
+      "C) It contains a subject and predicate.",
+      "D) It uses a verb."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q16",
+    "section": 2,
+    "question": "6. Which of these is a complete sentence?",
+    "options": [
+      "A) Sitting on the porch.",
+      "B) Until the rain stopped.",
+      "C) The baby smiled at her mother.",
+      "D) Because she forgot her homework."
+    ],
+    "correctAnswer": "C",
+    "hint": "A complete sentence has a subject and verb and expresses a full idea.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'The baby' is the subject, 'smiled' is the verb, and it's a complete thought.",
+      "correct_hint": "✅ Great! The hint helped you find the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. A complete sentence must express a full idea independently.",
+      "incorrect_hint": "❌ Even with the hint, you missed it. Look for the option that can stand alone."
+    },
+    "followUpQuestion": "Why is 'The baby smiled at her mother' a complete sentence?",
+    "followUpOptions": [
+      "A) It has a prepositional phrase.",
+      "B) It contains a complete idea.",
+      "C) It starts with 'The'.",
+      "D) It is longer than the others."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q17",
+    "section": 2,
+    "question": "7. Which of these is a sentence fragment?",
+    "options": [
+      "A) The students studied for their exams.",
+      "B) While the teacher explained the lesson.",
+      "C) She arrived early.",
+      "D) They cleaned the classroom."
+    ],
+    "correctAnswer": "B",
+    "hint": "A dependent clause needs an independent clause to be complete.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'While' makes this a dependent clause, which is a fragment without an independent clause.",
+      "correct_hint": "✅ Good job using the hint! You identified the dependent clause fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You are looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember that 'While' signals a dependent clause that can't stand alone."
+    },
+    "followUpQuestion": "What is missing in 'While the teacher explained the lesson'?",
+    "followUpOptions": [
+      "A) It needs a verb.",
+      "B) It has no subject.",
+      "C) It’s a dependent clause that lacks an independent clause.",
+      "D) It needs a comma."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q18",
+    "section": 2,
+    "question": "8. Choose the complete sentence.",
+    "options": [
+      "A) When the bell rings.",
+      "B) She will leave after class.",
+      "C) If I have enough time.",
+      "D) Although it is raining."
+    ],
+    "correctAnswer": "B",
+    "hint": "Look for a sentence that can stand alone and express a full thought.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'She' is the subject, 'will leave' is the verb, and it expresses a full idea.",
+      "correct_hint": "✅ Great! The hint led you to the correct, complete sentence.",
+      "incorrect_no_hint": "❌ This is a dependent clause fragment. It needs a main clause to complete its meaning.",
+      "incorrect_hint": "❌ Even with the hint, you're still struggling with dependent clauses. They don't express a full thought."
+    },
+    "followUpQuestion": "Why is 'She will leave after class' a complete sentence?",
+    "followUpOptions": [
+      "A) It has a time clause.",
+      "B) It includes two clauses.",
+      "C) It expresses a full idea independently.",
+      "D) It starts with 'She'."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q19",
+    "section": 2,
+    "question": "9. Which is NOT a complete sentence?",
+    "options": [
+      "A) We stayed home due to the storm.",
+      "B) Because it was raining.",
+      "C) He turned off his phone.",
+      "D) The dog chased the cat."
+    ],
+    "correctAnswer": "B",
+    "hint": "Look out for dependent clauses that need more to be complete.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Because' makes this a dependent clause, which is not a complete sentence on its own.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You are looking for one that is *not* complete.",
+      "incorrect_hint": "❌ You missed it. Remember, 'Because' usually introduces a reason that needs another part of the sentence."
+    },
+    "followUpQuestion": "Why is 'Because it was raining' a fragment?",
+    "followUpOptions": [
+      "A) It’s a prepositional phrase.",
+      "B) It lacks a subject.",
+      "C) It depends on another clause to be complete.",
+      "D) It has a verb tense issue."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q20",
+    "section": 2,
+    "question": "10. Identify the complete sentence.",
+    "options": [
+      "A) After school.",
+      "B) If he gets here on time.",
+      "C) The baby is sleeping.",
+      "D) While we were shopping."
+    ],
+    "correctAnswer": "C",
+    "hint": "Complete sentences must have subject + verb + full thought.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'The baby' is the subject, 'is sleeping' is the verb, and it forms a complete thought.",
+      "correct_hint": "✅ Excellent! The hint helped you find the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. A complete sentence needs a subject, verb, and a complete thought.",
+      "incorrect_hint": "❌ You're still struggling. Review what constitutes a full, independent thought."
+    },
+    "followUpQuestion": "Why is 'The baby is sleeping' a complete sentence?",
+    "followUpOptions": [
+      "A) It’s long.",
+      "B) It ends with a period.",
+      "C) It contains a complete idea.",
+      "D) It uses present continuous tense."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q21",
+    "section": 3,
+    "question": "21. Which of the following is a sentence fragment?",
+    "options": [
+      "A) The students arrived early.",
+      "B) When the bell rang.",
+      "C) He made breakfast.",
+      "D) They danced in the rain."
+    ],
+    "correctAnswer": "B",
+    "hint": "A sentence fragment is missing a main clause.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a dependent clause fragment because 'When' makes it incomplete.",
+      "correct_hint": "✅ Good job using the hint! You correctly identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ Even with the hint, you missed it. Remember dependent clauses can't stand alone."
+    },
+    "followUpQuestion": "Why is 'When the bell rang' a sentence fragment?",
+    "followUpOptions": [
+      "A) It has no verb.",
+      "B) It’s a complete sentence.",
+      "C) It’s a dependent clause with no independent clause.",
+      "D) It contains too many commas."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q22",
+    "section": 3,
+    "question": "22. Identify the complete sentence.",
+    "options": [
+      "A) Before the train arrived.",
+      "B) The cat jumped onto the table.",
+      "C) After running through the rain.",
+      "D) While the teacher spoke."
+    ],
+    "correctAnswer": "B",
+    "hint": "A complete sentence has subject + verb + complete thought.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and a full idea.",
+      "correct_hint": "✅ Good job using the hint! You identified the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. A complete sentence must express a full idea on its own.",
+      "incorrect_hint": "❌ You still missed it. Review dependent clauses and phrases."
+    },
+    "followUpQuestion": "Why is 'The cat jumped onto the table' a complete sentence?",
+    "followUpOptions": [
+      "A) It uses a preposition.",
+      "B) It starts with 'The'.",
+      "C) It includes a dependent clause.",
+      "D) It expresses a full idea on its own."
+    ],
+    "followUpAnswer": "D"
+  },
+  {
+    "id": "q23",
+    "section": 3,
+    "question": "23. Which of the following is NOT a sentence fragment?",
+    "options": [
+      "A) Although it was late.",
+      "B) The sun was shining.",
+      "C) While eating dinner.",
+      "D) Because they forgot the directions."
+    ],
+    "correctAnswer": "B",
+    "hint": "Fragments lack a complete thought.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and full thought.",
+      "correct_hint": "✅ Good job using the hint! You found the complete sentence (not a fragment).",
+      "incorrect_no_hint": "❌ This is a fragment. Remember, you're looking for what is *not* a fragment (i.e., a complete sentence).",
+      "incorrect_hint": "❌ You missed it. Review what makes a complete sentence vs. a fragment."
+    },
+    "followUpQuestion": "What makes 'The sun was shining' a full sentence?",
+    "followUpOptions": [
+      "A) It ends with 'shining'.",
+      "B) It has both a subject and a verb and expresses a complete thought.",
+      "C) It starts with 'The'.",
+      "D) It includes a prepositional phrase."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q24",
+    "section": 3,
+    "question": "24. Which option below is a fragment?",
+    "options": [
+      "A) He finished the project.",
+      "B) Since the sun had set.",
+      "C) They ran the race.",
+      "D) I studied hard."
+    ],
+    "correctAnswer": "B",
+    "hint": "Look for clauses that can’t stand alone.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Since' makes this a dependent clause, which is a fragment without a main clause.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You are looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember, 'Since' signals a dependent clause."
+    },
+    "followUpQuestion": "Why is 'Since the sun had set' not a complete sentence?",
+    "followUpOptions": [
+      "A) It lacks a verb.",
+      "B) It’s a dependent clause that doesn’t finish the idea.",
+      "C) It contains too many subjects.",
+      "D) It’s written in past tense."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q25",
+    "section": 3,
+    "question": "25. Choose the sentence that is NOT a fragment.",
+    "options": [
+      "A) While the dog barked.",
+      "B) Because she was tired.",
+      "C) He fell asleep quickly.",
+      "D) After we finished lunch."
+    ],
+    "correctAnswer": "C",
+    "hint": "The sentence must stand alone as a complete thought.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and complete idea.",
+      "correct_hint": "✅ Good job using the hint! You found the complete sentence (not a fragment).",
+      "incorrect_no_hint": "❌ This is a fragment. Remember, you're looking for what is *not* a fragment.",
+      "incorrect_hint": "❌ You missed it. Dependent clauses and phrases cannot stand alone."
+    },
+    "followUpQuestion": "What makes 'He fell asleep quickly' a complete sentence?",
+    "followUpOptions": [
+      "A) It has the word 'quickly'.",
+      "B) It includes a subordinate clause.",
+      "C) It has subject + verb + complete idea.",
+      "D) It is short and simple."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q26",
+    "section": 3,
+    "question": "26. Which of these is a sentence fragment?",
+    "options": [
+      "A) The kids played outside.",
+      "B) Because the storm passed.",
+      "C) She laughed at the joke.",
+      "D) They left the party."
+    ],
+    "correctAnswer": "B",
+    "hint": "Look for a dependent clause without a main clause.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Because' makes this a dependent clause, which is a fragment on its own.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember, 'Because' signals an incomplete thought."
+    },
+    "followUpQuestion": "Why is 'Because the storm passed' a fragment?",
+    "followUpOptions": [
+      "A) It is too long.",
+      "B) It has no subject.",
+      "C) It’s a dependent clause standing alone.",
+      "D) It’s in passive voice."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q27",
+    "section": 3,
+    "question": "27. Identify the complete sentence.",
+    "options": [
+      "A) Although he was sick.",
+      "B) She stayed home from work.",
+      "C) Since we were late.",
+      "D) While walking in the rain."
+    ],
+    "correctAnswer": "B",
+    "hint": "Only one of these has a full, independent clause.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete, independent sentence.",
+      "correct_hint": "✅ Great! The hint helped you find the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. You are looking for a complete sentence.",
+      "incorrect_hint": "❌ You missed it. Dependent clauses cannot stand alone."
+    },
+    "followUpQuestion": "Why is 'She stayed home from work' a sentence?",
+    "followUpOptions": [
+      "A) It includes a preposition.",
+      "B) It ends with a noun.",
+      "C) It contains subject and verb and completes a thought.",
+      "D) It has a clause starting with 'while'."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q28",
+    "section": 3,
+    "question": "28. Which sentence is a fragment?",
+    "options": [
+      "A) While the teacher was explaining.",
+      "B) They played a game.",
+      "C) The car stopped suddenly.",
+      "D) He found his keys."
+    ],
+    "correctAnswer": "A",
+    "hint": "Fragments often start with subordinating words but lack the main clause.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'While' makes this a dependent clause fragment.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember, dependent clauses can't stand alone."
+    },
+    "followUpQuestion": "Why is 'While the teacher was explaining' a fragment?",
+    "followUpOptions": [
+      "A) It doesn’t have a verb.",
+      "B) It’s a dependent clause without a main clause.",
+      "C) It includes too many verbs.",
+      "D) It has a passive voice."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q29",
+    "section": 3,
+    "question": "29. Which of these is a full sentence?",
+    "options": [
+      "A) After the speech.",
+      "B) The president spoke clearly.",
+      "C) While clapping loudly.",
+      "D) Before the parade began."
+    ],
+    "correctAnswer": "B",
+    "hint": "A sentence must express a full idea and include a subject and verb.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and full thought.",
+      "correct_hint": "✅ Great! The hint helped you find the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. You're looking for a full sentence.",
+      "incorrect_hint": "❌ You missed it. Review what makes a full sentence vs. a fragment."
+    },
+    "followUpQuestion": "What makes 'The president spoke clearly' a sentence?",
+    "followUpOptions": [
+      "A) It has a period.",
+      "B) It uses 'president'.",
+      "C) It contains a subject, verb, and complete thought.",
+      "D) It includes an adverb."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q30",
+    "section": 3,
+    "question": "30. Choose the sentence fragment.",
+    "options": [
+      "A) They ate lunch together.",
+      "B) After finishing the test.",
+      "C) She closed her notebook.",
+      "D) The phone rang loudly."
+    ],
+    "correctAnswer": "B",
+    "hint": "The sentence must be complete — not left hanging.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a phrase fragment, it can't stand alone.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember, a fragment is an incomplete thought."
+    },
+    "followUpQuestion": "Why is 'After finishing the test' not a full sentence?",
+    "followUpOptions": [
+      "A) It has no punctuation.",
+      "B) It’s a phrase without an independent clause.",
+      "C) It’s a command.",
+      "D) It uses the past tense."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q31",
+    "section": 3,
+    "question": "31. Which is a fragment?",
+    "options": [
+      "A) They watched a movie.",
+      "B) The lights were turned off.",
+      "C) Since the power went out.",
+      "D) He fell asleep quickly."
+    ],
+    "correctAnswer": "C",
+    "hint": "Watch for subordinating clauses that don’t finish the idea.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Since' makes this a dependent clause fragment.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember, 'Since' often signals an incomplete thought."
+    },
+    "followUpQuestion": "Why is 'Since the power went out' a fragment?",
+    "followUpOptions": [
+      "A) It has no verb.",
+      "B) It’s too short.",
+      "C) It doesn’t complete the idea.",
+      "D) It ends with a noun."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q32",
+    "section": 3,
+    "question": "32. Which of the following is a complete sentence?",
+    "options": [
+      "A) Until the rain stopped.",
+      "B) The kids played soccer.",
+      "C) While cleaning the house.",
+      "D) After the phone rang."
+    ],
+    "correctAnswer": "B",
+    "hint": "A sentence must include a subject, verb, and a full idea.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and full thought.",
+      "correct_hint": "✅ Great! The hint helped you find the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. You're looking for a complete sentence.",
+      "incorrect_hint": "❌ You missed it. Review what a complete sentence requires."
+    },
+    "followUpQuestion": "Why is 'The kids played soccer' a sentence?",
+    "followUpOptions": [
+      "A) It includes a preposition.",
+      "B) It starts with 'The'.",
+      "C) It has subject + verb + complete thought.",
+      "D) It ends in a noun."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q33",
+    "section": 3,
+    "question": "33. Identify the sentence fragment.",
+    "options": [
+      "A) She opened the door.",
+      "B) Because the door was locked.",
+      "C) He knocked loudly.",
+      "D) They walked outside."
+    ],
+    "correctAnswer": "B",
+    "hint": "Dependent clauses need a main clause to complete them.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Because' makes this a dependent clause fragment.",
+      "correct_hint": "✅ Good job using the hint! You identified the fragment.",
+      "incorrect_no_hint": "❌ This is a complete sentence. You're looking for a fragment.",
+      "incorrect_hint": "❌ You missed it. Remember that 'Because' often signals an incomplete thought."
+    },
+    "followUpQuestion": "Why is 'Because the door was locked' a fragment?",
+    "followUpOptions": [
+      "A) It uses 'because'.",
+      "B) It lacks a verb.",
+      "C) It’s dependent and not attached to a full idea.",
+      "D) It ends in a preposition."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q34",
+    "section": 3,
+    "question": "34. Which is NOT a fragment?",
+    "options": [
+      "A) While he was running.",
+      "B) They won the game.",
+      "C) After the show ended.",
+      "D) Since the door was closed."
+    ],
+    "correctAnswer": "B",
+    "hint": "Only one has all sentence parts.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and full thought.",
+      "correct_hint": "✅ Great! The hint helped you find the complete sentence (not a fragment).",
+      "incorrect_no_hint": "❌ This is a fragment. You're looking for what is *not* a fragment.",
+      "incorrect_hint": "❌ You missed it. Review what makes a complete sentence vs. a fragment."
+    },
+    "followUpQuestion": "What makes 'They won the game' a sentence?",
+    "followUpOptions": [
+      "A) It’s short.",
+      "B) It starts with 'They'.",
+      "C) It contains a subject and verb and makes a complete statement.",
+      "D) It has a time clause."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q35",
+    "section": 3,
+    "question": "35. Which is a complete sentence?",
+    "options": [
+      "A) Although he tried his best.",
+      "B) Because she was absent.",
+      "C) He completed his homework.",
+      "D) While waiting for the train."
+    ],
+    "correctAnswer": "C",
+    "hint": "Check if the sentence can stand on its own.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a complete sentence with a subject, verb, and complete thought.",
+      "correct_hint": "✅ Good job using the hint! You found the complete sentence.",
+      "incorrect_no_hint": "❌ This is a fragment or dependent clause. You're looking for a complete sentence.",
+      "incorrect_hint": "❌ You missed it. Review dependent clauses and phrases."
+    },
+    "followUpQuestion": "Why is 'He completed his homework' a sentence?",
+    "followUpOptions": [
+      "A) It’s a command.",
+      "B) It ends with a period.",
+      "C) It includes an adverb.",
+      "D) It expresses a complete idea."
+    ],
+    "followUpAnswer": "D"
+  },
+  {
+    "id": "q36",
+    "section": 4,
+    "question": "36. Which of the following is a run-on sentence (fused sentence)?",
+    "options": [
+      "A. The sun was shining, and the birds were singing.",
+      "B. She finished her work she went home.",
+      "C. Although it was late, they continued working.",
+      "D. He studied hard; he wanted to pass the exam."
+    ],
+    "correctAnswer": "B",
+    "hint": "A run-on sentence joins two or more complete sentences without any punctuation or connecting words.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a run-on because two independent clauses are joined with no punctuation.",
+      "correct_hint": "✅ Good job using the hint to spot the fused sentence.",
+      "incorrect_no_hint": "❌ This is a run-on sentence because two complete ideas are jammed together without proper punctuation.",
+      "incorrect_hint": "❌ Even with the hint, you missed it. Remember, two full sentences need a break or connection."
+    },
+    "followUpQuestion": "What is the problem with option B?",
+    "followUpOptions": [
+      "A) It's a fragment.",
+      "B) It's a comma splice.",
+      "C) It's a fused sentence (run-on).",
+      "D) It uses incorrect verb tense."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q37",
+    "section": 4,
+    "question": "37. Identify the comma splice in the options below:",
+    "options": [
+      "A. The storm raged outside, we stayed warm indoors.",
+      "B. The storm raged outside; we stayed warm indoors.",
+      "C. The storm raged outside, and we stayed warm indoors.",
+      "D. Because the storm raged outside, we stayed warm indoors."
+    ],
+    "correctAnswer": "A",
+    "hint": "A comma splice incorrectly joins two independent clauses with only a comma.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! A comma alone isn't strong enough to join two independent clauses.",
+      "correct_hint": "✅ You used the hint to identify the comma splice. Well done!",
+      "incorrect_no_hint": "❌ This is a comma splice. Two independent clauses can't be joined by just a comma.",
+      "incorrect_hint": "❌ Even with the hint, you missed that a single comma isn't enough."
+    },
+    "followUpQuestion": "Why is option A a comma splice?",
+    "followUpOptions": [
+      "A) It combines a dependent and independent clause.",
+      "B) It uses a comma to join two independent clauses.",
+      "C) It has no subject.",
+      "D) It is a very long sentence."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q38",
+    "section": 4,
+    "question": "38. Which of the following is a grammatically correct sentence?",
+    "options": [
+      "A. The car broke down, we called a tow truck.",
+      "B. The car broke down we called a tow truck.",
+      "C. The car broke down; we called a tow truck.",
+      "D. The car breaking down, we called a tow truck."
+    ],
+    "correctAnswer": "C",
+    "hint": "Look for proper punctuation between two independent clauses.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! A semicolon properly joins two closely related independent clauses.",
+      "correct_hint": "✅ Good job, the hint helped you find the correct punctuation.",
+      "incorrect_no_hint": "❌ Options A and B are common errors. Remember how to join independent clauses correctly.",
+      "incorrect_hint": "❌ You missed the correct punctuation. Review methods for fixing run-ons."
+    },
+    "followUpQuestion": "What is wrong with option A?",
+    "followUpOptions": [
+      "A) It's a fragment.",
+      "B) It's a run-on sentence.",
+      "C) It's a comma splice.",
+      "D) It has an irrelevant phrase."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q39",
+    "section": 4,
+    "question": "39. Identify the run-on sentence (fused sentence) in the list.",
+    "options": [
+      "A. I enjoy reading, and I love writing.",
+      "B. She sings beautifully she dances gracefully.",
+      "C. Since it was cold, we wore warm coats.",
+      "D. They finished their homework; then they watched TV."
+    ],
+    "correctAnswer": "B",
+    "hint": "No punctuation or conjunction between two independent clauses means it's a fused sentence.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Two independent clauses are directly joined without any punctuation.",
+      "correct_hint": "✅ Good job, the hint pointed you to the fused sentence.",
+      "incorrect_no_hint": "❌ This is a fused sentence. Two complete thoughts are just smashed together.",
+      "incorrect_hint": "❌ You're still struggling with identifying fused sentences. Look for two complete sentences without a break."
+    },
+    "followUpQuestion": "How can option B be fixed using a period?",
+    "followUpOptions": [
+      "A) She sings beautifully, she dances gracefully.",
+      "B) She sings beautifully. She dances gracefully.",
+      "C) She sings beautifully and dances gracefully.",
+      "D) While she sings beautifully, she dances gracefully."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q40",
+    "section": 4,
+    "question": "40. Which sentence contains a comma splice?",
+    "options": [
+      "A. My cat loves to play, my dog prefers to sleep.",
+      "B. My cat loves to play; my dog prefers to sleep.",
+      "C. My cat loves to play, but my dog prefers to sleep.",
+      "D. Although my cat loves to play, my dog prefers to sleep."
+    ],
+    "correctAnswer": "A",
+    "hint": "A comma splice uses only a comma to connect two full sentences.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! You spotted the comma splice, where a comma incorrectly joins two independent clauses.",
+      "correct_hint": "✅ Excellent use of the hint to find the comma splice.",
+      "incorrect_no_hint": "❌ This is a comma splice. Remember, a comma isn't strong enough on its own.",
+      "incorrect_hint": "❌ You missed it. Remember the rule: comma + FANBOYS or a semicolon for two independent clauses."
+    },
+    "followUpQuestion": "What type of error is shown in option A?",
+    "followUpOptions": [
+      "A) Run-on sentence",
+      "B) Fragment",
+      "C) Comma splice",
+      "D) Grammatical error"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q41",
+    "section": 5,
+    "question": "41. Which sentence demonstrates a comma splice involving a conjunctive adverb?",
+    "options": [
+      "A. The results were surprising; therefore, the experiment will be repeated.",
+      "B. The results were surprising, therefore, the experiment will be repeated.",
+      "C. The results were surprising, and the experiment will be repeated.",
+      "D. Because the results were surprising, the experiment will be repeated."
+    ],
+    "correctAnswer": "B",
+    "hint": "Conjunctive adverbs like 'therefore,' 'however,' 'consequently,' etc., require a semicolon before them when connecting two independent clauses, not just a comma.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! This is a comma splice, incorrectly using a comma before 'therefore'.",
+      "correct_hint": "✅ Good job using the hint! You identified the comma splice with the conjunctive adverb.",
+      "incorrect_no_hint": "❌ This is a comma splice. A semicolon is needed before 'therefore'.",
+      "incorrect_hint": "❌ You missed it. Review the punctuation rules for conjunctive adverbs between independent clauses."
+    },
+    "followUpQuestion": "Excellent! You identified the comma splice with a conjunctive adverb. How should 'therefore' be punctuated when it connects two independent clauses?",
+    "followUpOptions": [
+      "A. Comma before, comma after.",
+      "B. Semicolon before, comma after.",
+      "C. Period before, comma after.",
+      "D. No punctuation needed."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q42",
+    "section": 5,
+    "question": "42. Choose the option that correctly fixes the run-on sentence: 'The alarm rang loudly I woke up immediately.'",
+    "options": [
+      "A. The alarm rang loudly, I woke up immediately.",
+      "B. The alarm rang loudly; I woke up immediately.",
+      "C. When the alarm rang loudly, I woke up immediately.",
+      "D. All of the above except A."
+    ],
+    "correctAnswer": "D",
+    "hint": "Consider all the correct methods for fixing run-on sentences. There may be multiple correct answers.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Both B and C are valid ways to fix the run-on sentence.",
+      "correct_hint": "✅ Good job using the hint! You found multiple correct ways to fix the run-on.",
+      "incorrect_no_hint": "❌ Option A is a comma splice. You need to review all methods for fixing run-on sentences.",
+      "incorrect_hint": "❌ You missed that multiple options were correct. Review all four methods."
+    },
+    "followUpQuestion": "Fantastic! You correctly identified all the valid ways to fix the run-on sentence. Why is option A incorrect?",
+    "followUpOptions": [
+      "A. It is a fragment.",
+      "B. It is a run-on sentence.",
+      "C. It is a comma splice.",
+      "D. It changes the meaning."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q43",
+    "section": 5,
+    "question": "43. Correct the comma splice: 'The new policy was unpopular, it faced immediate opposition.'",
+    "options": [
+      "A. The new policy was unpopular it faced immediate opposition.",
+      "B. The new policy was unpopular, and it faced immediate opposition.",
+      "C. The new policy was unpopular; it faced immediate opposition.",
+      "D. Both B and C."
+    ],
+    "correctAnswer": "D",
+    "hint": "A comma splice can often be fixed in multiple ways. Look for options that correctly separate or join the two independent clauses.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Both B (comma + conjunction) and C (semicolon) are valid fixes.",
+      "correct_hint": "✅ Great! The hint helped you recognize both correct ways to fix the comma splice.",
+      "incorrect_no_hint": "❌ Option A is a fused run-on. Remember, there are multiple correct ways to fix a comma splice.",
+      "incorrect_hint": "❌ You missed that multiple options were correct. Review methods for fixing comma splices."
+    },
+    "followUpQuestion": "Fantastic! You recognized that both options B and C correctly fix the comma splice. What is the name of the group of coordinating conjunctions that includes 'and'?",
+    "followUpOptions": [
+      "A. FANBOYS",
+      "B. Subordinating conjunctions",
+      "C. Transition words",
+      "D. Relative pronouns"
+    ],
+    "followUpAnswer": "A"
+  },
+  {
+    "id": "q44",
+    "section": 5,
+    "question": "44. Choose the option that correctly combines these two independent clauses: 'The team practiced hard. They were ready for the championship.'",
+    "options": [
+      "A. The team practiced hard, they were ready for the championship.",
+      "B. The team practiced hard; they were ready for the championship.",
+      "C. The team practiced hard, so they were ready for the championship.",
+      "D. Both B and C."
+    ],
+    "correctAnswer": "D",
+    "hint": "Consider all the correct methods for joining two independent clauses. There might be more than one correct answer.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Both B (semicolon) and C (comma + 'so') are valid ways to combine these clauses.",
+      "correct_hint": "✅ Excellent! The hint helped you identify both correct combining methods.",
+      "incorrect_no_hint": "❌ Option A is a comma splice. Review all valid ways to combine independent clauses.",
+      "incorrect_hint": "❌ You missed that multiple options were correct. Review all methods for combining sentences."
+    },
+    "followUpQuestion": "Excellent! You identified both correct ways to combine the sentences. What kind of relationship does the word 'so' establish between the two clauses?",
+    "followUpOptions": [
+      "A. Contrast",
+      "B. Reason",
+      "C. Result",
+      "D. Time"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q45",
+    "section": 5,
+    "question": "45. Consider the sentence: 'The new restaurant opened last week it is already very popular.' Which option is the best way to fix this run-on sentence, emphasizing the *result*?",
+    "options": [
+      "A. The new restaurant opened last week. It is already very popular.",
+      "B. The new restaurant opened last week; it is already very popular.",
+      "C. The new restaurant opened last week, so it is already very popular.",
+      "D. The new restaurant opened last week, and it is already very popular."
+    ],
+    "correctAnswer": "C",
+    "hint": "To emphasize the *result*, you need a specific coordinating conjunction (FANBOYS) or a subordinating conjunction.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Using 'so' explicitly shows the popularity is a result of opening last week.",
+      "correct_hint": "✅ Perfect! The hint guided you to the best option for emphasizing the result.",
+      "incorrect_no_hint": "❌ Options A and B are correct fixes but don't emphasize the *result* as clearly as 'so'. Option D implies addition.",
+      "incorrect_hint": "❌ You picked a less effective option for emphasizing the result. Review FANBOYS meanings."
+    },
+    "followUpQuestion": "Perfect! You chose the best option to emphasize the result. What is the category of words like 'so', 'for', and 'but'?",
+    "followUpOptions": [
+      "A. Subordinating conjunctions",
+      "B. Conjunctive adverbs",
+      "C. Coordinating conjunctions",
+      "D. Prepositions"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q46",
+    "section": 5,
+    "question": "46. Choose the best way to fix the run-on sentence: 'The alarm clock rang I immediately woke up.'",
+    "options": [
+      "A. The alarm clock rang, I immediately woke up.",
+      "B. The alarm clock rang. I immediately woke up.",
+      "C. The alarm clock rang and I immediately woke up.",
+      "D. When the alarm clock rang, I immediately woke up."
+    ],
+    "correctAnswer": "B",
+    "hint": "The simplest way to fix a run-on is to separate the two independent clauses into two distinct sentences using a period.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Separating with a period is a clear and simple fix.",
+      "correct_hint": "✅ Good job using the hint! You correctly fixed the run-on.",
+      "incorrect_no_hint": "❌ This is a common error. Remember, two independent clauses need a strong separator like a period.",
+      "incorrect_hint": "❌ Even with the hint, you missed the most straightforward fix. Review using periods."
+    },
+    "followUpQuestion": "Excellent! You chose the correct way to fix the run-on using a period. When is using a period the best method to fix a run-on sentence?",
+    "followUpOptions": [
+      "A. When the ideas are very complex.",
+      "B. When the ideas are closely related.",
+      "C. When the ideas are related but can stand as separate, clear points.",
+      "D. When you want to combine them into one long sentence."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q47",
+    "section": 5,
+    "question": "47. Fix the comma splice: 'The research was extensive, it revealed new insights.' using a semicolon.",
+    "options": [
+      "A. The research was extensive. It revealed new insights.",
+      "B. The research was extensive; it revealed new insights.",
+      "C. The research was extensive, and it revealed new insights.",
+      "D. Because the research was extensive, it revealed new insights."
+    ],
+    "correctAnswer": "B",
+    "hint": "A semicolon is used to join two closely related independent clauses. Both clauses must be able to stand alone.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! A semicolon properly joins these two related independent clauses.",
+      "correct_hint": "✅ Good use of the hint! You correctly used a semicolon.",
+      "incorrect_no_hint": "❌ You missed using a semicolon. It's needed to join two independent clauses directly.",
+      "incorrect_hint": "❌ Even with the hint, you struggled. Remember semicolons are strong connectors."
+    },
+    "followUpQuestion": "Correct! You successfully fixed the comma splice using a semicolon. What does a semicolon imply about the relationship between the two clauses it joins?",
+    "followUpOptions": [
+      "A. They are completely unrelated.",
+      "B. They are closely related in meaning.",
+      "C. One clause is dependent on the other.",
+      "D. It indicates a strong contrast."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q48",
+    "section": 5,
+    "question": "48. Choose the best way to fix the run-on sentence: 'Many students struggled with the essay they eventually improved.' using a comma and a coordinating conjunction.",
+    "options": [
+      "A. Many students struggled with the essay. They eventually improved.",
+      "B. Many students struggled with the essay; they eventually improved.",
+      "C. Many students struggled with the essay, but they eventually improved.",
+      "D. Although many students struggled with the essay, they eventually improved."
+    ],
+    "correctAnswer": "C",
+    "hint": "Remember the FANBOYS (For, And, Nor, But, Or, Yet, So) and that a comma comes *before* the conjunction.",
+    "feedback": {
+      "correct_no_hint": "✅ Perfect! 'But' correctly shows the contrast between struggling and improving.",
+      "correct_hint": "✅ Excellent! The hint helped you choose the right coordinating conjunction.",
+      "incorrect_no_hint": "❌ You needed a comma AND a coordinating conjunction. 'But' shows contrast.",
+      "incorrect_hint": "❌ You missed it. Remember the FANBOYS and the comma rule."
+    },
+    "followUpQuestion": "Excellent! You chose the correct way to fix the run-on using a comma and a coordinating conjunction. Which FANBOYS conjunction would you use to show a *result*?",
+    "followUpOptions": [
+      "A. For",
+      "B. And",
+      "C. So",
+      "D. But"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q49",
+    "section": 5,
+    "question": "49. Combine these ideas using a subordinating conjunction, with the dependent clause coming first: 'The data was clear. The hypothesis was disproven.'",
+    "options": [
+      "A. The data was clear, the hypothesis was disproven.",
+      "B. The data was clear; the hypothesis was disproven.",
+      "C. Although the data was clear, the hypothesis was disproven.",
+      "D. The data was clear, and the hypothesis was disproven."
+    ],
+    "correctAnswer": "C",
+    "hint": "When a dependent clause comes first, it must be followed by a comma before the independent clause.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'Although' properly introduces the dependent clause, followed by a comma.",
+      "correct_hint": "✅ Great! The hint helped you with the correct structure and punctuation.",
+      "incorrect_no_hint": "❌ This needed a subordinating conjunction and proper comma placement. Option A is a comma splice.",
+      "incorrect_hint": "❌ You're still struggling with complex sentences. Review subordinating conjunctions and commas."
+    },
+    "followUpQuestion": "Perfect! You correctly combined the ideas using a subordinating conjunction with the dependent clause first. What is the rule for punctuation when a dependent clause *starts* a sentence?",
+    "followUpOptions": [
+      "A. No comma is needed.",
+      "B. A comma is always needed after the dependent clause.",
+      "C. A semicolon is needed.",
+      "D. A period is needed."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q50",
+    "section": 5,
+    "question": "50. Combine these ideas using a subordinating conjunction, with the independent clause coming first: 'They made several revisions. The committee reviewed the proposal.'",
+    "options": [
+      "A. They made several revisions, after the committee reviewed the proposal.",
+      "B. After the committee reviewed the proposal, they made several revisions.",
+      "C. They made several revisions after the committee reviewed the proposal.",
+      "D. They made several revisions; the committee reviewed the proposal."
+    ],
+    "correctAnswer": "C",
+    "hint": "When the independent clause comes first, no comma is usually needed before the subordinating conjunction.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! No comma is needed when the independent clause comes before the dependent clause.",
+      "correct_hint": "✅ Excellent! The hint guided you to the correct, comma-free structure.",
+      "incorrect_no_hint": "❌ Option A incorrectly uses a comma. Option B reverses the clause order. Option D uses a semicolon.",
+      "incorrect_hint": "❌ You missed the correct punctuation rule for subordinating conjunctions in this structure."
+    },
+    "followUpQuestion": "Excellent! You correctly combined the ideas with the independent clause first. When is a comma *not* needed with a subordinating conjunction?",
+    "followUpOptions": [
+      "A. When the dependent clause comes first.",
+      "B. When the independent clause comes first.",
+      "C. When the clauses are very short.",
+      "D. When the conjunction is 'and'."
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q51",
+    "section": 5,
+    "question": "51. Which sentence correctly uses a coordinating conjunction to show *contrast* between two independent clauses?",
+    "options": [
+      "A. He wanted to go to the party, and he had to study.",
+      "B. He wanted to go to the party, but he had to study.",
+      "C. He wanted to go to the party, so he had to study.",
+      "D. He wanted to go to the party, for he had to study."
+    ],
+    "correctAnswer": "B",
+    "hint": "Recall the meanings of the FANBOYS conjunctions. Which one indicates opposition or difference?",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'But' clearly indicates a contrast.",
+      "correct_hint": "✅ Good job using the hint to pick the right conjunction for contrast.",
+      "incorrect_no_hint": "❌ You needed a conjunction that shows contrast, like 'but' or 'yet'.",
+      "incorrect_hint": "❌ You picked the wrong FANBOYS. Review what each FANBOYS means."
+    },
+    "followUpQuestion": "Perfect! You chose the conjunction that shows contrast. If you wanted to show a *reason*, which FANBOYS would you use?",
+    "followUpOptions": [
+      "A. Or",
+      "B. Yet",
+      "C. For",
+      "D. Nor"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q52",
+    "section": 5,
+    "question": "52. Which option correctly fixes the comma splice: 'The dog barked loudly, the cat ran away.'",
+    "options": [
+      "A. The dog barked loudly the cat ran away.",
+      "B. The dog barked loudly. The cat ran away.",
+      "C. The dog barked loudly; the cat ran away.",
+      "D. Both B and C."
+    ],
+    "correctAnswer": "D",
+    "hint": "Both a period and a semicolon can correctly separate two closely related independent clauses.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Both a period and a semicolon are valid ways to fix this comma splice.",
+      "correct_hint": "✅ Great! The hint led you to recognize both correct fixes.",
+      "incorrect_no_hint": "❌ Option A is a run-on. Remember, you have multiple ways to fix a comma splice, not just one.",
+      "incorrect_hint": "❌ You missed that multiple options were correct. Review all methods for fixing comma splices."
+    },
+    "followUpQuestion": "Great job! You identified multiple correct ways to fix the comma splice. What is the main difference in meaning or emphasis between using a period versus a semicolon?",
+    "followUpOptions": [
+      "A. A period is for unrelated ideas, a semicolon for related ones.",
+      "B. A period creates a stronger pause, a semicolon a weaker one.",
+      "C. A period separates ideas completely, a semicolon implies a closer connection.",
+      "D. There is no difference in meaning."
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q53",
+    "section": 5,
+    "question": "53. Which sentence correctly uses a subordinating conjunction to show a *cause* for the action?",
+    "options": [
+      "A. He was tired, so he went to bed early.",
+      "B. He was tired; he went to bed early.",
+      "C. Because he was tired, he went to bed early.",
+      "D. He was tired, but he went to bed early."
+    ],
+    "correctAnswer": "C",
+    "hint": "Look for a subordinating conjunction that means 'reason' or 'cause'.",
+    "feedback": {
+      "correct_no_hint": "✅ Excellent! 'Because' clearly indicates the cause of him going to bed early.",
+      "correct_hint": "✅ Good job using the hint to find the cause-and-effect relationship.",
+      "incorrect_no_hint": "❌ Option A shows a result. You need a word that shows the reason.",
+      "incorrect_hint": "❌ You picked the wrong type of conjunction. Review subordinating conjunctions for cause."
+    },
+    "followUpQuestion": "Excellent! You correctly identified the sentence showing cause. What is the grammatical term for 'Because he was tired' in this sentence?",
+    "followUpOptions": [
+      "A. Independent clause",
+      "B. Noun phrase",
+      "C. Dependent clause",
+      "D. Prepositional phrase"
+    ],
+    "followUpAnswer": "C"
+  },
+  {
+    "id": "q54",
+    "section": 5,
+    "question": "54. Which sentence correctly fixes the run-on sentence 'The weather was cold the children played indoors.' using a comma and a coordinating conjunction?",
+    "options": [
+      "A. The weather was cold. The children played indoors.",
+      "B. The weather was cold; the children played indoors.",
+      "C. The weather was cold, so the children played indoors.",
+      "D. Although the weather was cold, the children played indoors."
+    ],
+    "correctAnswer": "C",
+    "hint": "You need a FANBOYS conjunction that logically connects the two ideas, showing a relationship like cause/effect or addition.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! 'So' shows the result of the cold weather on the children's play.",
+      "correct_hint": "✅ Great! The hint helped you choose the right conjunction and punctuation.",
+      "incorrect_no_hint": "❌ You needed to use a comma AND a coordinating conjunction to show the relationship.",
+      "incorrect_hint": "❌ You picked the wrong fix or missed the coordinating conjunction rule."
+    },
+    "followUpQuestion": "Correct! You fixed the run-on using a comma and coordinating conjunction. If you wanted to show a *contrast* instead of a result, which FANBOYS would you use?",
+    "followUpOptions": [
+      "A. And",
+      "B. But",
+      "C. Or",
+      "D. For"
+    ],
+    "followUpAnswer": "B"
+  },
+  {
+    "id": "q55",
+    "section": 5,
+    "question": "55. Consider the comma splice: 'The presentation was long, many attendees left early.' Which option offers the *most concise* and correct fix?",
+    "options": [
+      "A. The presentation was long. Many attendees left early.",
+      "B. The presentation was long; many attendees left early.",
+      "C. The presentation was long, and many attendees left early.",
+      "D. Because the presentation was long, many attendees left early."
+    ],
+    "correctAnswer": "A",
+    "hint": "Conciseness often means using the simplest correct punctuation when the ideas can stand alone clearly.",
+    "feedback": {
+      "correct_no_hint": "✅ Correct! Separating with a period is the most concise fix.",
+      "correct_hint": "✅ Well done! The hint helped you choose the most concise fix.",
+      "incorrect_no_hint": "❌ Options B, C, and D are correct but less concise than a simple period here.",
+      "incorrect_hint": "❌ You missed the most concise option. Consider simplicity when appropriate."
+    },
+    "followUpQuestion": "Well done! You chose the most concise fix. When is conciseness particularly important in writing?",
+    "followUpOptions": [
+      "A. Only in academic papers.",
+      "B. When you want to impress the reader with long sentences.",
+      "C. To ensure clarity and avoid unnecessary words, especially in formal writing and on tests like the SAT.",
+      "D. Never, longer sentences are always better."
+    ],
+    "followUpAnswer": "C"
+  }
+]

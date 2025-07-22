@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Grammar Practice Portal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="home">
+    <h1>Select an Exercise to Begin</h1>
+    <div id="sectionList" class="section-buttons"></div>
+  </div>
+
+  <div id="emailScreen" style="display: none;">
+    <h2>Enter Your Gmail to Begin</h2>
+    <input type="email" id="emailInput" placeholder="Enter your Gmail" required />
+    <button id="startButton">Start Quiz</button>
+  </div>
+
+  <div id="questionScreen" style="display: none;">
+    <div id="questionBox">
+      <div id="questionNumber"></div>
+      <div id="questionText"></div>
+      <div id="optionsBox"></div>
+      <button id="showHint">Show Hint</button>
+      <div id="hintBox" class="hint-box"></div>
+      <div id="feedback" class="feedback-box"></div>
+      <div id="followUpContainer" class="followup-box"></div>
+    </div>
+    <div class="nav-buttons">
+      <button id="prevButton">Previous</button>
+      <button id="nextButton">Next</button>
+    </div>
+  </div>
+
+  <div id="scoreScreen" style="display: none;">
+    <div id="finalScore"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
